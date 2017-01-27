@@ -1,2 +1,2 @@
 # Clanbot
-Clanbot is a Discord Bot with a Extensive System and Set of Plugins where anyone can Access it.
+This bot was Developed for the Purpose of having a Discord Bot Framework Standard for Developers to develop off for Clans.

@@ -1,14 +1,16 @@
 {
-  "name": "Clanbot",
+  "name": "clanbot",
   "version": "0.0.1",
-  "description": "This bot was Developed for the Purpose of having a Discord Bot Framework Standard for Developers to develop off of.",
+  "description": "This bot was Developed for the Purpose of having a Discord Bot Framework Standard for Developers to develop off for Clans.",
   "keywords": [
     "OpenShift",
     "Node.js",
     "Discord",
     "Bioblaze",
     "Bot",
-    "Payne"
+    "Payne",
+    "Clans",
+    "Clan"
   ],
   "author": {
     "name": "Bioblaze Payne",
